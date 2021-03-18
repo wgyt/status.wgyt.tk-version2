@@ -27,8 +27,6 @@ sites:
     url: https://wgyt.grahamsh.com/
   - name: wgyt.cf
     url: https://auth.wgyt.tk/
-  - name: simpleedit.tk
-    url: https://simpleedit.tk/
   - name: meower.tk
     url: https://meower.tk/
   - name: meowerplus.tk
