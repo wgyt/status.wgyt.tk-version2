@@ -18,8 +18,6 @@ sites:
     url: https://social.wgyt.tk/
   - name: stats.wgyt.tk
     url: https://stats.wgyt.tk/
-  - name: test.wgyt.tk
-    url: https://test.wgyt.tk/
   - name: www.wgyt.tk
     url: https://www.wgyt.tk/
   - name: wgyt.tk
