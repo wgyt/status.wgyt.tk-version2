@@ -4,36 +4,46 @@ repo: stats.wgyt.tk
 sites:
   - name: api.wgyt.tk
     url: https://api.wgyt.tk/about
-  - name: auth.wgyt.tk
-    url: https://auth.wgyt.tk/
-  - name: josh bot (bot.wgyt.tk)
+  - name: bot.wgyt.tk
     url: https://bot.wgyt.tk/
-  - name: documentation.wgyt.tk
-    url: https://documentation.wgyt.tk/
+  - name: database.wgyt.tk
+    url: https://database.wgyt.tk/
+  - name: github.wgyt.tk
+    url: https://github.wgyt.tk/
+  - name: ison.wgyt.tk
+    url: https://ison.wgyt.tk/
+  - name: replit.wgyt.tk
+    url: https://replit.wgyt.tk/
   - name: social.wgyt.tk
     url: https://social.wgyt.tk/
-  - name: stats.wgyt.tk (it is up lol)
+  - name: stats.wgyt.tk
     url: https://stats.wgyt.tk/
+  - name: test.wgyt.tk
+    url: https://test.wgyt.tk/
+  - name: www.wgyt.tk
+    url: https://www.wgyt.tk/
+  - name: wgyt.tk
+    url: https://wgyt.tk/
+  - name: www.wgyt.cf
+    url: https://www.wgyt.cf/
+  - name: wgyt.cf
+    url: https://wgyt.cf/
   - name: wgytcraft.cf
     url: https://wgytcraft.cf/
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 501
-  - name: wgyt.tk
-    url: https://auth.wgyt.tk/
-  - name: wgyt.grahamsh.com
-    url: https://wgyt.grahamsh.com/
-  - name: wgyt.cf
-    url: https://auth.wgyt.tk/
+  - name: www.meower.tk
+    url: https://www.meower.tk/
   - name: meower.tk
     url: https://meower.tk/
+  - name: auth.onedot.cf
+    url: https://auth.onedot.cf/
+  - name: cdn.onedot.cf
+    url: https://cdn.onedot.cf/
+  - name: onedot.cf
+    url: https://onedot.cf/
   - name: meowerplus.tk
     url: https://meowerplus.tk/
   - name: galacticaos.tk
     url: https://galacticaos.tk/
-
 assignees:
   - wgyt
 
