@@ -1,7 +1,7 @@
 url: https://auth.onedot.cf/
-status: up
-code: 200
-responseTime: 14335
-lastUpdated: 2021-04-05T01:17:33.010Z
+status: down
+code: 502
+responseTime: 352
+lastUpdated: 2021-04-05T15:04:28.734Z
 startTime: Sat Apr 03 2021 12:28:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
