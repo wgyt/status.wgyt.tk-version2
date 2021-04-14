@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/api.wgyt.tk",
     "slug": "api-wgyt-tk",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 710,
     "timeDay": 364,
     "timeWeek": 500,
-    "timeMonth": 468,
+    "timeMonth": 475,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2021-02-24": 8,
@@ -124,7 +124,7 @@
     "time": 504,
     "timeDay": 2395,
     "timeWeek": 471,
-    "timeMonth": 573,
+    "timeMonth": 584,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2021-02-24": 28
@@ -180,7 +180,7 @@
     "time": 251,
     "timeDay": 193,
     "timeWeek": 249,
-    "timeMonth": 344,
+    "timeMonth": 350,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2021-03-09": 57
@@ -200,7 +200,7 @@
     "time": 593,
     "timeDay": 438,
     "timeWeek": 735,
-    "timeMonth": 750,
+    "timeMonth": 761,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2021-02-27": 45,
@@ -240,7 +240,7 @@
     "time": 386,
     "timeDay": 316,
     "timeWeek": 450,
-    "timeMonth": 366,
+    "timeMonth": 367,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
@@ -249,17 +249,17 @@
     "url": "https://auth.onedot.cf/",
     "icon": "https://favicons.githubusercontent.com/auth.onedot.cf",
     "slug": "auth-onedot-cf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1569,
-    "timeDay": 416,
-    "timeWeek": 547,
-    "timeMonth": 1569,
-    "timeYear": 1569,
+    "time": 1535,
+    "timeDay": 385,
+    "timeWeek": 543,
+    "timeMonth": 1535,
+    "timeYear": 1535,
     "dailyMinutesDown": {}
   },
   {
@@ -312,7 +312,7 @@
     "time": 394,
     "timeDay": 446,
     "timeWeek": 369,
-    "timeMonth": 378,
+    "timeMonth": 379,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2021-02-19": 5
@@ -332,7 +332,7 @@
     "time": 394,
     "timeDay": 426,
     "timeWeek": 485,
-    "timeMonth": 377,
+    "timeMonth": 378,
     "timeYear": 394,
     "dailyMinutesDown": {}
   }
