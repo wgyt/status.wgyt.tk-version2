@@ -10,8 +10,6 @@ sites:
     url: https://database.wgyt.tk/
   - name: github.wgyt.tk
     url: https://github.wgyt.tk/
-  - name: ison.wgyt.tk
-    url: https://ison.wgyt.tk/
   - name: replit.wgyt.tk
     url: https://replit.wgyt.tk/
   - name: social.wgyt.tk
