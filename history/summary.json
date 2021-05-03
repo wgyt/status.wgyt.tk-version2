@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/api.wgyt.tk",
     "slug": "api-wgyt-tk",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 682,
     "timeDay": 363,
     "timeWeek": 492,
-    "timeMonth": 526,
+    "timeMonth": 534,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2021-02-24": 8,
@@ -34,7 +34,7 @@
     "time": 494,
     "timeDay": 480,
     "timeWeek": 378,
-    "timeMonth": 494,
+    "timeMonth": 435,
     "timeYear": 494,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 501,
     "timeDay": 196,
     "timeWeek": 378,
-    "timeMonth": 501,
+    "timeMonth": 519,
     "timeYear": 501,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,7 @@
     "time": 224,
     "timeDay": 293,
     "timeWeek": 276,
-    "timeMonth": 224,
+    "timeMonth": 229,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -106,7 +106,7 @@
     "time": 557,
     "timeDay": 313,
     "timeWeek": 1567,
-    "timeMonth": 593,
+    "timeMonth": 618,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2021-02-24": 28
@@ -126,7 +126,7 @@
     "time": 151,
     "timeDay": 112,
     "timeWeek": 146,
-    "timeMonth": 151,
+    "timeMonth": 150,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -144,7 +144,7 @@
     "time": 266,
     "timeDay": 1147,
     "timeWeek": 380,
-    "timeMonth": 266,
+    "timeMonth": 270,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -162,7 +162,7 @@
     "time": 261,
     "timeDay": 307,
     "timeWeek": 288,
-    "timeMonth": 288,
+    "timeMonth": 287,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2021-03-09": 57
@@ -182,7 +182,7 @@
     "time": 615,
     "timeDay": 561,
     "timeWeek": 566,
-    "timeMonth": 669,
+    "timeMonth": 691,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2021-02-27": 45,
@@ -204,7 +204,7 @@
     "time": 524,
     "timeDay": 437,
     "timeWeek": 449,
-    "timeMonth": 524,
+    "timeMonth": 530,
     "timeYear": 524,
     "dailyMinutesDown": {}
   },
@@ -222,7 +222,7 @@
     "time": 414,
     "timeDay": 684,
     "timeWeek": 517,
-    "timeMonth": 455,
+    "timeMonth": 463,
     "timeYear": 414,
     "dailyMinutesDown": {}
   },
@@ -231,16 +231,16 @@
     "url": "https://auth.onedot.cf/",
     "icon": "https://favicons.githubusercontent.com/auth.onedot.cf",
     "slug": "auth-onedot-cf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1227,
-    "timeDay": 1088,
+    "timeDay": 1193,
     "timeWeek": 998,
-    "timeMonth": 1227,
+    "timeMonth": 1047,
     "timeYear": 1227,
     "dailyMinutesDown": {}
   },
@@ -258,7 +258,7 @@
     "time": 522,
     "timeDay": 338,
     "timeWeek": 397,
-    "timeMonth": 522,
+    "timeMonth": 527,
     "timeYear": 522,
     "dailyMinutesDown": {}
   },
@@ -276,7 +276,7 @@
     "time": 286,
     "timeDay": 291,
     "timeWeek": 300,
-    "timeMonth": 286,
+    "timeMonth": 282,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 424,
     "timeDay": 425,
     "timeWeek": 508,
-    "timeMonth": 454,
+    "timeMonth": 463,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2021-02-19": 5
@@ -314,7 +314,7 @@
     "time": 425,
     "timeDay": 433,
     "timeWeek": 614,
-    "timeMonth": 474,
+    "timeMonth": 485,
     "timeYear": 425,
     "dailyMinutesDown": {}
   }
