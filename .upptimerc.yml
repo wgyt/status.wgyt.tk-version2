@@ -44,3 +44,6 @@ status-website:
   name: Wgyt Status
   logoUrl: https://www.wgyt.tk/images/logo.webp
   cname: stats.wgyt.tk # Custom CNAME
+commitMessages:
+  commitAuthorName: "wgytbot"
+  commitAuthorEmail: "83586655+wgytbot@users.noreply.github.com"
