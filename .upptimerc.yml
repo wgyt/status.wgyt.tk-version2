@@ -37,7 +37,7 @@ assignees:
 status-website:
   theme: night
   name: Wgyt Status
-  logoUrl: https://www.wgyt.tk/images/logo.webp
+  logoUrl: https://avatars.githubusercontent.com/u/68466727?s=600&v=4
   cname: stats.wgyt.tk # Custom CNAME
 commitMessages:
   commitAuthorName: "wgytbot"
