@@ -22,16 +22,11 @@ sites:
     url: https://wgyt.tk/
   - name: wgytcraft.cf
     url: https://wgytcraft.cf/
+    # todo: move these to new status page:
   - name: www.meower.tk
     url: https://www.meower.tk/
   - name: meower.tk
     url: https://meower.tk/
-  - name: auth.onedot.cf
-    url: https://auth.onedot.cf/
-  - name: cdn.onedot.cf
-    url: https://cdn.onedot.cf/
-  - name: onedot.cf
-    url: https://onedot.cf/
   - name: meowerplus.tk
     url: https://meowerplus.tk/
   - name: galacticaos.tk
