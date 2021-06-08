@@ -117,17 +117,17 @@
     "url": "https://stats.wgyt.tk/",
     "icon": "https://favicons.githubusercontent.com/stats.wgyt.tk",
     "slug": "stats-wgyt-tk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 283,
-    "timeWeek": 275,
-    "timeMonth": 230,
-    "timeYear": 187,
+    "time": 188,
+    "timeDay": 284,
+    "timeWeek": 276,
+    "timeMonth": 232,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -144,7 +144,7 @@
     "time": 468,
     "timeDay": 135,
     "timeWeek": 346,
-    "timeMonth": 336,
+    "timeMonth": 339,
     "timeYear": 468,
     "dailyMinutesDown": {}
   },
@@ -162,7 +162,7 @@
     "time": 405,
     "timeDay": 314,
     "timeWeek": 418,
-    "timeMonth": 790,
+    "timeMonth": 824,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2021-03-09": 57
