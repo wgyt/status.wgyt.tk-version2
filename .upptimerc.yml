@@ -2,27 +2,15 @@ owner: wgytwebsites
 repo: stats.wgyt.tk
 
 sites:
-  - name: api.wgyt.tk
-    url: https://api.wgyt.tk/about
   - name: bot.wgyt.tk
     url: https://bot.wgyt.tk/
-  - name: database.wgyt.tk
-    url: https://database.wgyt.tk/
-  - name: github.wgyt.tk
-    url: https://github.wgyt.tk/
-  - name: replit.wgyt.tk
-    url: https://replit.wgyt.tk/
-  - name: social.wgyt.tk
-    url: https://social.wgyt.tk/
-  - name: stats.wgyt.tk
-    url: https://stats.wgyt.tk/
   - name: www.wgyt.tk
     url: https://www.wgyt.tk/
   - name: wgyt.tk
     url: https://wgyt.tk/
   - name: wgytcraft.cf
     url: https://wgytcraft.cf/
-    # todo: move these to new status page:
+    # todo: move these to a new status page:
   - name: www.meower.tk
     url: https://www.meower.tk/
   - name: meower.tk
