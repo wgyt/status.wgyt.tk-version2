@@ -78,6 +78,24 @@
     }
   },
   {
+    "name": "renew",
+    "url": "https://renew.wgytcraft.cf/",
+    "icon": "https://favicons.githubusercontent.com/renew.wgytcraft.cf",
+    "slug": "renew",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 97,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "www.meower.tk",
     "url": "https://www.meower.tk/",
     "icon": "https://favicons.githubusercontent.com/www.meower.tk",
@@ -125,7 +143,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 350,
+    "timeDay": 249,
     "timeWeek": 374,
     "timeMonth": 652,
     "timeYear": 536,
