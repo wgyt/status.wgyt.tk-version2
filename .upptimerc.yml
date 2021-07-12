@@ -10,6 +10,8 @@ sites:
     url: https://wgyt.tk/
   - name: wgytcraft.cf
     url: https://wgytcraft.cf/
+  - name: renew
+    url: https://renew.wgytcraft.cf/
     # todo: move these to a new status page:
   - name: www.meower.tk
     url: https://www.meower.tk/
