@@ -24,6 +24,8 @@ sites:
     url: https://meowerplus.tk/
   - name: galacticaos.tk
     url: https://galacticaos.tk/
+  - name: search nxdomain
+    url: https://dns-node.wgyt.repl.co
 assignees:
   - wgyt
 
