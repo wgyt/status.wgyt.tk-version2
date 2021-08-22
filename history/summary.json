@@ -174,17 +174,17 @@
     "url": "https://dns-node.wgyt.repl.co",
     "icon": "https://favicons.githubusercontent.com/dns-node.wgyt.repl.co",
     "slug": "search-nxdomain",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1009,
-    "timeWeek": 1009,
-    "timeMonth": 1009,
-    "timeYear": 1009,
+    "time": 853,
+    "timeDay": 853,
+    "timeWeek": 853,
+    "timeMonth": 853,
+    "timeYear": 853,
     "dailyMinutesDown": {}
   }
 ]
